@@ -1,0 +1,4 @@
+out/
+*.class
+sql_queries.txt
+*.zip
